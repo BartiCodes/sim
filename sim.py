@@ -54,4 +54,4 @@ if handles_off == 0 or handles_on == 0:
     pass
 else:
     print(F"With meter off it will take {runs/handles_off:.0f} runs to get a handle on average")
-    print(F"With meter on it will take {runs/handles_on:.0f} runs to get a handle on average {handles_on}")
+    print(F"With meter on it will take {runs/handles_on:.0f} runs to get a handle on average")
